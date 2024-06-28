@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visualisation on </title>
+    <link>http://localhost:1313/en/tags/visualisation/</link>
+    <description>Recent content in Visualisation on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/visualisation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Carbon uptake of street trees in Yeongcheon City</title>
+      <link>http://localhost:1313/en/posts/yc-trees/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/posts/yc-trees/</guid>
+      <description>The carbon uptake of street trees in Yeongju City is visualised in Carbon uptake of street trees in Yeongcheon City.&#xA;The street trees in Yeongcheon City are absorbing about 9,000 tonnes of carbon. Using the data1), we calculated the carbon uptake of street trees in Yeongcheon City, which accounts for about 1.4% of Gyeongbuk&amp;rsquo;s street trees2). The carbon uptake of street trees by administrative district in Yeongcheon City is shown on the map.</description>
+    </item>
+    <item>
+      <title>Take a small action for carbon neutrality!</title>
+      <link>http://localhost:1313/en/posts/carbon-neautral-participaton/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/posts/carbon-neautral-participaton/</guid>
+      <description>We visualised the participation rate of carbon neutrality activities in South Korea in Take a small action for carbon neutrality!.&#xA;About 4.7 million people in Korea are interested in carbon neutrality and participate in carbon neutrality activities. Using data 1), we calculated the participation rate 2) of carbon neutral activities by administrative region in Korea. The calculated participation rate of carbon neutral activities was displayed on a map.&#xA;Public data portal Korea Environment Agency_Carbon Neutral Point Energy Participation Status Statistics Latest (as of April 2024) participation rate (%) by administrative region of Carbon Neutral Point: (Participating population ÷ population) × 100, However, the participating population (eco-mileage) of Seoul was taken from the Seoul Eco News (as of 13 September 2023), Population was calculated using Statistics Korea Seoul (as of Q1 2024).</description>
+    </item>
+    <item>
+      <title>My Neighbourhood Trees, Absorbing Carbon!</title>
+      <link>http://localhost:1313/en/posts/seoul-trees/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/posts/seoul-trees/</guid>
+      <description>My Neighbourhood Trees, Absorbing Carbon! visualises the carbon uptake of Seoul&amp;rsquo;s street trees.&#xA;Seoul&amp;rsquo;s street trees absorb about 250,000 tonnes of carbon. Using data 1) and 2), we selected seven types of street trees 3), which account for about 90% of Seoul&amp;rsquo;s street trees. The carbon uptake of the selected trees is shown on the map.&#xA;Korea Forest Service_Street Tree Establishment Status (as of 2019, by province) Seoul Open Data Square_Statistics of Street Trees in Seoul (using 2022 data) Seven types of street trees: Korean cherry tree, ginkgo, zelkova, metasequoia, yew, yew tree, yew tree, and Japanese tree.</description>
+    </item>
+  </channel>
+</rss>

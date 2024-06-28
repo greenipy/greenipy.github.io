@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>대한민국 on </title>
+    <link>http://localhost:1313/tags/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD/</link>
+    <description>Recent content in 대한민국 on </description>
+    <generator>Hugo</generator>
+    <language>ko</language>
+    <lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>탄소중립을 위한 작은 실천 함께해요!</title>
+      <link>http://localhost:1313/posts/carbon-neautral-participaton/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/carbon-neautral-participaton/</guid>
+      <description>탄소중립을 위한 작은 실천 함께해요!에서 대한민국의 탄소 중립 활동 참여율을 시각화 했습니다.&#xA;전국 약 470만명이 탄소중립에 관심을 가지고 탄소중립 활동에 참여하고 있어요. 데이터1)를 활용하여, 대한민국 행정구역별 탄소중립 활동 참여율2)을 계산했어요. 계산된 탄소중립 활동 참여율을 지도에 나타냈어요.&#xA;공공데이터포털 한국환경공단_탄소중립포인트 에너지 참여현황 통계 탄소중립포인트 행정구역 별 최신(2024년 4월 기준) 참여율(%): (참여인구 ÷ 인구) × 100, 단, 서울시 참여인구(에코마일리지)는 서울시 친환경 소식(2023년 9월 13일 기준)를 이용하였고, 인구는 통계로보는 서울(2024년 1/4분기 기준)을 이용했어요. </description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>서울 on </title>
+    <link>http://localhost:1313/tags/%EC%84%9C%EC%9A%B8/</link>
+    <description>Recent content in 서울 on </description>
+    <generator>Hugo</generator>
+    <language>ko</language>
+    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%EC%84%9C%EC%9A%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>우리 동네 가로수, 탄소흡수!</title>
+      <link>http://localhost:1313/posts/seoul-trees/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/seoul-trees/</guid>
+      <description>우리 동네 가로수, 탄소흡수!에서 서울의 가로수 탄소흡수량을 시각화 했습니다.&#xA;서울시 가로수가 약 25만톤의 탄소를 흡수하고 있어요. 데이터1)2)를 활용하여, 서울시 가로수의 약 90%를 차지하는 일곱 종류의 가로수3)를 선정했어요. 선정된 가로수의 탄소 흡수량을 지도에 나타냈어요.&#xA;공공데이터포털 산림청_가로수 조성 현황(2019년 기준, 시도별) 서울 열린 데이터 광장 서울시 가로수 현황 통계 (2022년 데이터 사용) 일곱 종류 가로수: 왕벚나무, 은행나무, 느티나무, 메타세콰이어, 양버즘나무, 이팝나무, 회화나무 </description>
+    </item>
+  </channel>
+</rss>

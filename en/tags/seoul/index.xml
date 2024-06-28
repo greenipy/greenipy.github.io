@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seoul on </title>
+    <link>http://localhost:1313/en/tags/seoul/</link>
+    <description>Recent content in Seoul on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/seoul/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Neighbourhood Trees, Absorbing Carbon!</title>
+      <link>http://localhost:1313/en/posts/seoul-trees/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/posts/seoul-trees/</guid>
+      <description>My Neighbourhood Trees, Absorbing Carbon! visualises the carbon uptake of Seoul&amp;rsquo;s street trees.&#xA;Seoul&amp;rsquo;s street trees absorb about 250,000 tonnes of carbon. Using data 1) and 2), we selected seven types of street trees 3), which account for about 90% of Seoul&amp;rsquo;s street trees. The carbon uptake of the selected trees is shown on the map.&#xA;Korea Forest Service_Street Tree Establishment Status (as of 2019, by province) Seoul Open Data Square_Statistics of Street Trees in Seoul (using 2022 data) Seven types of street trees: Korean cherry tree, ginkgo, zelkova, metasequoia, yew, yew tree, yew tree, and Japanese tree.</description>
+    </item>
+  </channel>
+</rss>

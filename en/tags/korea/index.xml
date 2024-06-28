@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Korea on </title>
+    <link>http://localhost:1313/en/tags/korea/</link>
+    <description>Recent content in Korea on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/korea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Take a small action for carbon neutrality!</title>
+      <link>http://localhost:1313/en/posts/carbon-neautral-participaton/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/posts/carbon-neautral-participaton/</guid>
+      <description>We visualised the participation rate of carbon neutrality activities in South Korea in Take a small action for carbon neutrality!.&#xA;About 4.7 million people in Korea are interested in carbon neutrality and participate in carbon neutrality activities. Using data 1), we calculated the participation rate 2) of carbon neutral activities by administrative region in Korea. The calculated participation rate of carbon neutral activities was displayed on a map.&#xA;Public data portal Korea Environment Agency_Carbon Neutral Point Energy Participation Status Statistics Latest (as of April 2024) participation rate (%) by administrative region of Carbon Neutral Point: (Participating population ÷ population) × 100, However, the participating population (eco-mileage) of Seoul was taken from the Seoul Eco News (as of 13 September 2023), Population was calculated using Statistics Korea Seoul (as of Q1 2024).</description>
+    </item>
+  </channel>
+</rss>

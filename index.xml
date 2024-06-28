@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>홈 on </title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in 홈 on </description>
+    <generator>Hugo</generator>
+    <language>ko</language>
+    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>영천시 가로수 탄소흡수량</title>
+      <link>http://localhost:1313/posts/yc-trees/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/yc-trees/</guid>
+      <description>영천시 가로수 탄소흡수량에서 영천시 가로수 탄소흡수량을 시각화 했습니다.&#xA;영천시 가로수길의 가로수가 약 9,000톤의 탄소를 흡수하고 있어요. 데이터1)를 활용하여, 경북 가로수의 약 1.4%를 차지2)하는 영천시 가로수 탄소흡수량을 계산했어요. 영천시 행정구역 별 가로수의 탄소 흡수량을 지도에 나타냈어요.&#xA;공공데이터포털 경상북도 영천시_가로수길정보 공공데이터포털 산림청_가로수 조성 현황(2019년 기준, 시도별) </description>
+    </item>
+    <item>
+      <title>탄소중립을 위한 작은 실천 함께해요!</title>
+      <link>http://localhost:1313/posts/carbon-neautral-participaton/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/carbon-neautral-participaton/</guid>
+      <description>탄소중립을 위한 작은 실천 함께해요!에서 대한민국의 탄소 중립 활동 참여율을 시각화 했습니다.&#xA;전국 약 470만명이 탄소중립에 관심을 가지고 탄소중립 활동에 참여하고 있어요. 데이터1)를 활용하여, 대한민국 행정구역별 탄소중립 활동 참여율2)을 계산했어요. 계산된 탄소중립 활동 참여율을 지도에 나타냈어요.&#xA;공공데이터포털 한국환경공단_탄소중립포인트 에너지 참여현황 통계 탄소중립포인트 행정구역 별 최신(2024년 4월 기준) 참여율(%): (참여인구 ÷ 인구) × 100, 단, 서울시 참여인구(에코마일리지)는 서울시 친환경 소식(2023년 9월 13일 기준)를 이용하였고, 인구는 통계로보는 서울(2024년 1/4분기 기준)을 이용했어요. </description>
+    </item>
+    <item>
+      <title>우리 동네 가로수, 탄소흡수!</title>
+      <link>http://localhost:1313/posts/seoul-trees/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/seoul-trees/</guid>
+      <description>우리 동네 가로수, 탄소흡수!에서 서울의 가로수 탄소흡수량을 시각화 했습니다.&#xA;서울시 가로수가 약 25만톤의 탄소를 흡수하고 있어요. 데이터1)2)를 활용하여, 서울시 가로수의 약 90%를 차지하는 일곱 종류의 가로수3)를 선정했어요. 선정된 가로수의 탄소 흡수량을 지도에 나타냈어요.&#xA;공공데이터포털 산림청_가로수 조성 현황(2019년 기준, 시도별) 서울 열린 데이터 광장 서울시 가로수 현황 통계 (2022년 데이터 사용) 일곱 종류 가로수: 왕벚나무, 은행나무, 느티나무, 메타세콰이어, 양버즘나무, 이팝나무, 회화나무 </description>
+    </item>
+    <item>
+      <title>cta</title>
+      <link>http://localhost:1313/bricks/cta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bricks/cta/</guid>
+      <description>&#xA;네이처 포지티브한 세상 지금부터 함께 만들어가요! 지금 시작하기 </description>
+    </item>
+    <item>
+      <title>Page not found (404)</title>
+      <link>http://localhost:1313/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/404/</guid>
+      <description>Oops! Something went wrong! Back to home</description>
+    </item>
+    <item>
+      <title>Product 1</title>
+      <link>http://localhost:1313/products/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/products/1/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
